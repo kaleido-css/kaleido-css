@@ -179,4 +179,12 @@ td,
 th {
   padding: 0; }
 
+button {
+  padding: 0.4rem 1.1rem 0.4rem 1.1rem;
+  background-color: #4286f4; }
+
+@font-face {
+  font-family: roboto;
+  src: url(fonts/Roboto-Regular.ttf); }
+
 /*# sourceMappingURL=main.css.map */
